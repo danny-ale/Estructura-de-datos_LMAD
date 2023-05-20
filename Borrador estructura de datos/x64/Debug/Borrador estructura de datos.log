@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(494,24): warning C4244: '=': conversión de 'UINT' a 'float'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(573,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(734,23): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(734,28): warning C4305: '=': truncamiento de 'int' a 'CHAR'
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(734,23): warning C4309: '=': truncamiento de valor constante
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(759,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(772,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(948,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(987,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(999,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1047,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1294,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1311,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1481,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1500,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1557,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1842,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1855,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1869,23): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1869,28): warning C4305: '=': truncamiento de 'int' a 'CHAR'
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1869,23): warning C4309: '=': truncamiento de valor constante
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(1938,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2212,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2226,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2238,29): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2430,26): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2506,26): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2568,26): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2642,26): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\dpere\source\repos\Borrador estructura de datos\Borrador estructura de datos\Source.cpp(2859,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Borrador estructura de datos.vcxproj -> C:\Users\dpere\source\repos\Borrador estructura de datos\x64\Debug\Borrador estructura de datos.exe

@@ -1,0 +1,65 @@
+Tres
+Cero
+Persona
+INE
+Viudo(a)
+33-3-3333
+DIRECCION3
+Otro
+PCT345JKLPOIUYTHJK
+8133333333
+TRABAJO3
+Persona Cero Tres
+C:\Users\dpere\OneDrive\Escritorio\bitmap1copia.bmp
+Dos
+Cero
+Persona
+RFC
+Soltero(a)
+2-2-2222
+Direccion 2
+Otro
+PCD5678
+822222222
+TRABAJO 2
+Persona Cero Dos
+C:\Users\dpere\OneDrive\Escritorio\bitmap2.bmp
+Uno
+Cero
+Persona
+INE
+Divorciado(a)
+1-1-1111
+DIRECCION 1
+Otro
+PCU123
+8111111111
+TRABAJO 1
+Persona Cero Uno
+C:\Users\dpere\OneDrive\Escritorio\Bitmap5.bmp
+Cuatro
+Cero
+Persona
+RFC
+Viudo(a)
+4-4-4444
+Direccion 4
+Otro
+PC4788
+814444444
+Trabajo 4
+Persona Cero Cuatro
+C:\Users\dpere\OneDrive\Escritorio\Bitmap4.bmp
+Cinco
+Cero
+Persona
+RFC
+Casado(a)
+5-5-5555
+Direccion 5
+Otro
+PCC777
+815555555
+Trabajo 5
+Persona Cero Cinco
+C:\Users\dpere\OneDrive\Escritorio\Bitmap 3.bmp
